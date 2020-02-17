@@ -1,0 +1,624 @@
+Uri: https://www.salon-adriana.ro/
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\index.htm
+Content Type: text/html
+
+Uri: https://www.salon-adriana.ro/css/reset.css
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\css\reset.css
+Content Type: text/css
+
+Uri: https://www.salon-adriana.ro/css/layout.css
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\css\layout.css
+Content Type: text/css
+
+Uri: https://www.salon-adriana.ro/css/prettyPhoto.css
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\css\prettyPhoto.css
+Content Type: text/css
+
+Uri: https://www.salon-adriana.ro/css/style.css
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\css\style.css
+Content Type: text/css
+
+Uri: https://www.salon-adriana.ro/images/m1mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\m1mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/m2mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\m2mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/m3mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\m3mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/m4mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\m4mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/m5mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\m5mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/m6mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\m6mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/p1mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\p1mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/p2mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\p2mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/p3mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\p3mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/p4mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\p4mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up1mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up1mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up2mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up2mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up3mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up3mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up4mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up4mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up5mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up5mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up7mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up7mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up6mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up6mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u1mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u1mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u6mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u6mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u2mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u2mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u7mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u7mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u3mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u3mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u8mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u8mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u4mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u4mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u9mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u9mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u5mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u5mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u10mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u10mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x9mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x9mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x1mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x1mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x2mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x2mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x3mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x3mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x4mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x4mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x5mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x5mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x6mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x6mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x7mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x7mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x8mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x8mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co1mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co1mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co2mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co2mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co3mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co3mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co4mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co4mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co5mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co5mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co6mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co6mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co7mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co7mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/y1mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\y1mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/y2mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\y2mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/y3mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\y3mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/f1mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\f1mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/f2mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\f2mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/f3mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\f3mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/f4mare.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\f4mare.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/bg_img1.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\bg_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/bg_img2.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\bg_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/bg_img3.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\bg_img3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/js/jquery-1.6.js
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\js\jquery-1.6.js
+Content Type: application/javascript
+
+Uri: https://www.salon-adriana.ro/js/cufon-yui.js
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\js\cufon-yui.js
+Content Type: application/javascript
+
+Uri: https://www.salon-adriana.ro/js/cufon-replace.js
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\js\cufon-replace.js
+Content Type: application/javascript
+
+Uri: https://www.salon-adriana.ro/js/Ubuntu_400.font.js
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\js\Ubuntu_400.font.js
+Content Type: application/javascript
+
+Uri: https://www.salon-adriana.ro/js/Ubuntu_700.font.js
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\js\Ubuntu_700.font.js
+Content Type: application/javascript
+
+Uri: https://www.salon-adriana.ro/js/bgSlider.js
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\js\bgSlider.js
+Content Type: application/javascript
+
+Uri: https://www.salon-adriana.ro/js/script.js
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\js\script.js
+Content Type: application/javascript
+
+Uri: https://www.salon-adriana.ro/js/pages.js
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\js\pages.js
+Content Type: application/javascript
+
+Uri: https://www.salon-adriana.ro/js/jquery.easing.1.3.js
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\js\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://www.salon-adriana.ro/js/bg.js
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\js\bg.js
+Content Type: application/javascript
+
+Uri: https://www.salon-adriana.ro/js/tabs.js
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\js\tabs.js
+Content Type: application/javascript
+
+Uri: https://www.salon-adriana.ro/js/jquery.prettyPhoto.js
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\js\jquery.prettyPhoto.js
+Content Type: application/javascript
+
+Uri: https://www.salon-adriana.ro/images/page1_img1.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\page1_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/page1_img2.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\page1_img2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/page2_img1.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\page2_img1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/m1mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\m1mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/m2mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\m2mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/m3mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\m3mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/m4mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\m4mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/m5mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\m5mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/m6mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\m6mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/p1mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\p1mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/p2mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\p2mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/p3mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\p3mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/p4mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\p4mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up1mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up1mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up2mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up2mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up3mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up3mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up4mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up4mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up5mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up5mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up6mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up6mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/up7mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\up7mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u1mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u1mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u6mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u6mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u2mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u2mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u7mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u7mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u3mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u3mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u8mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u8mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u4mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u4mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u9mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u9mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u5mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u5mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/u10mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\u10mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x9mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x9mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x10mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x10mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x1mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x1mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x2mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x2mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x3mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x3mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x4mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x4mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x5mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x5mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x6mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x6mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x7mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x7mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/x8mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\x8mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co1mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co1mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co2mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co2mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co3mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co3mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co4mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co4mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co5mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co5mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co6mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co6mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/co7mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\co7mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/y1mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\y1mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/y2mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\y2mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/y3mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\y3mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/f1mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\f1mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/f2mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\f2mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/f3mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\f3mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/f4mic.jpg
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\f4mic.jpg
+Content Type: image/jpeg
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/light_rounded/sprite.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\light_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/light_rounded/btnNext.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\light_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/light_rounded/btnPrevious.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\light_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/light_rounded/loader.gif
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\light_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/light_square/loader.gif
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\light_square\loader.gif
+Content Type: image/gif
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/dark_rounded/sprite.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\dark_rounded\sprite.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/dark_rounded/contentPattern.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\dark_rounded\contentPattern.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/dark_rounded/btnNext.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\dark_rounded\btnNext.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/dark_rounded/btnPrevious.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\dark_rounded\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/dark_rounded/loader.gif
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\dark_rounded\loader.gif
+Content Type: image/gif
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/dark_square/contentPattern.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\dark_square\contentPattern.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/dark_square/sprite.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\dark_square\sprite.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/dark_square/btnNext.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\dark_square\btnNext.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/dark_square/btnPrevious.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\dark_square\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/light_square/sprite.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\light_square\sprite.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/facebook/sprite.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\facebook\sprite.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/facebook/contentPatternTop.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\facebook\contentPatternTop.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/facebook/contentPatternLeft.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\facebook\contentPatternLeft.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/facebook/contentPatternRight.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\facebook\contentPatternRight.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/facebook/loader.gif
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\facebook\loader.gif
+Content Type: image/gif
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/facebook/btnNext.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\facebook\btnNext.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/facebook/btnPrevious.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\facebook\btnPrevious.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/prettyPhoto/facebook/contentPatternBottom.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\prettyPhoto\facebook\contentPatternBottom.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/loader.gif
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\loader.gif
+Content Type: image/gif
+
+Uri: https://www.salon-adriana.ro/images/logo.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\logo.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/bg_content.png
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\bg_content.png
+Content Type: image/png
+
+Uri: https://www.salon-adriana.ro/images/close.gif
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\close.gif
+Content Type: image/gif
+
+Uri: https://www.salon-adriana.ro/images/marker_1.gif
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\marker_1.gif
+Content Type: image/gif
+
+Uri: https://www.salon-adriana.ro/images/border.gif
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\border.gif
+Content Type: image/gif
+
+Uri: https://www.salon-adriana.ro/images/marker_right.gif
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\marker_right.gif
+Content Type: image/gif
+
+Uri: https://www.salon-adriana.ro/images/marker_left.gif
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\marker_left.gif
+Content Type: image/gif
+
+Uri: https://www.salon-adriana.ro/images/footer_logo.gif
+File Name: c:\Downloaded Web Sites\www.salon-adriana.ro\images\footer_logo.gif
+Content Type: image/gif
+
