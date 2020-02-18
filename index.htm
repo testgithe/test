@@ -78,6 +78,8 @@ $binom_cloaker-tokens_black=''; //Список слов через запяту�
 $binom_cloaker-ua_black='facebookexternalhit,Facebot,curl,wget(linux),zgrab/0.x,python-requests,python-urllib,proximic,facebook,facebookexternalhit,facebot,facebookexternalhit/1.0,facebookexternalhit/1.1,facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php),facebookexternalhit/1.1 (http://www.facebook.com/externalhit_uatext.php)'; //Список слова через запятую, при наличии которых в UserAgent, юзер будет отправлен на whitepage
 $binom_cloaker-referer='0'; //при ='1' все запросы без referer будут идти на whitepage
 $check_result=$binom_cloaker-check();
+
+//запись посетителей в файл visitors.txt
 $calledIp=$binom_cloaker-detect['ip'];
 if ($calledIp!=$admin_ip){
   $file = "visitors.txt";
