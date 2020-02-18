@@ -1,0 +1,638 @@
+@charset "utf-8";
+/* CSS Document */
+/*
+	
+	Intelident
+	Custom CSS
+	created by: Cristi Moisii (moisii.cristian@gmail.com)
+	
+*/
+
+table {width:100%;}
+
+/* header */
+#smallheader, #blogheader{ background-color:#ffaa2e;}
+#name a{
+	display:block;
+	width:180px;
+	height:125px;
+	margin-top:-50px;
+	overflow:hidden;
+	text-indent:-1000px;
+	background:url(../images/logo.png) center center no-repeat;
+}
+
+.caption a{text-decoration:none;}
+.caption a:hover .firstline{color:#FFF;}
+.caption a:hover .secondline{color:#17C7D1;}
+
+.topsocial .phone{
+	color:#FFF;
+	font-size:16px;
+	vertical-align:top;
+	margin-top:-2px;
+}
+
+/* main menu 
+ul#menuglowne{
+	width:710px;
+}*/
+ul#menuglowne li a.item{
+	font-size:12px;
+	padding:10px 10px;
+	margin:7px 1px 0;
+}
+
+/* home page first header slide */
+
+/*#home-slide-01 .description{
+	position:absolute;
+	top:125px;
+	right:0px;
+	width:65%;
+	margin-top:0;
+}
+*/
+
+
+#mainslider .caption {margin-top:60px;}
+
+.slide-price h4{
+	color:#FFF;
+	font-family:'ancona-cdbold', sans-serif;
+	font-size:2em;
+}
+.slide-price h4 .oldPrice{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1em;
+	text-decoration:line-through;
+	margin-bottom:5px;
+}
+#home-slide-01 .caption{margin-top:60px;}
+#home-slide-01 .description{margin-top:20px; line-height:1.3em;}
+#home-slide-01 .slide-price{margin-top:20px;}
+#home-slide-01 .slide-price p{display:inline-block; line-height:1em;}
+
+#home-slide-02 .caption{margin-top:80px;}
+
+#home-slide-03 .slide-price{margin-top:20px;}
+
+.slide-price-list p{font-size:0.75em;}
+.slide-price-list h4{
+	color:#333;
+	font-family:'ancona-cdbold', sans-serif;
+	font-size:2em;
+	text-transform:uppercase;
+}
+.slide-price-list h4.oldPrice, h4.oldPrice, .oldPrice{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1em;
+	text-decoration:line-through;
+	margin-bottom:5px;
+}
+.slide-buton{
+	display:inline-block;
+	border-radius:50px;
+	margin-top:20px;
+	padding:10px 20px;
+
+	background-color:#17C7D1;
+	text-decoration:none;
+	text-transform:uppercase;
+	font-weight:bold;
+	color:#FFF;
+}
+.slide-buton:hover{color:#FFF; 	background-color:#FFAD40;}
+
+#home-slide-03 .slide-price-list{
+	position:absolute;
+	top:100px;
+	right:0px;
+}
+#home-slide-01 .slide-buton, #home-slide-03 .slide-buton{
+	color:#FFF; background:#17C7D1;
+}
+#home-slide-01 .slide-buton:hover, #home-slide-03 .slide-buton:hover{
+	color:#FFF; background:#FFAD40;
+}
+
+
+/* content */
+#header .main{
+	position:relative;
+	display:block;
+}
+
+.medic-bar-title{
+	text-align:center;
+	padding:30px 0 0;
+	color:#FFF;
+	text-transform:uppercase;
+	margin-bottom:0px;
+}
+
+.grid33 p {
+	font-size:0.8em;
+	line-height:1.5em;
+	padding-right:10px;
+}
+
+#despre_pgs .grid2  img{margin-bottom:15px;}
+#despre_pgs .grid2 h1{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:24px;
+	color:#17c7d1;
+}
+#despre_pgs .grid1 p, #despre_pgs .grid2 p{
+	font-size:0.8em;
+	line-height:1.7em;
+	margin-top:15px;
+}
+
+#despre_pgs .fatetare img{margin-bottom:0;}
+#despre_pgs .fatetare p{margin-top:0;padding-right:7em;}
+
+#despre_pgs ul li{
+	font-size:0.8em;
+	list-style:outside disc;
+}
+#despre_pgs ul.no-bullet li{list-style:none none;}
+#despre_pgs h3{ margin-bottom:0; color:#ffad40;}
+#despre_pgs h3:first-child{margin-bottom:30px;}
+#despre_pgs h3+span{ font-size:0.8em; }
+
+.margintop2 {
+	margin-top:25px;
+}
+.margintop3 {
+	margin-top:15px;
+}
+.goRight{
+	float:right;
+	margin:0 0 20px 20px;
+}
+
+/*#abonamente{
+	background:#f2e8d5;
+	text-align:center;
+	padding:30px 0 40px;	
+}
+#abonamente .grid4{
+	display:block;
+	margin:0 auto;
+	float:none;
+}
+#abonamente h2{margin-bottom:30px;}
+#abonamente h2+p{margin-bottom:20px;}
+#abonamente .app-phone:last-child{margin-left:20px;}*/
+
+
+/* prices page */
+.prices, .prices-colored{padding:50px 0;}
+.prices{text-align:center;}
+.prices h1{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size:5em;
+	line-height:1em;
+	color:#f3a34a;
+}
+.prices-colored{
+	border-top:8px solid #f3a34a;
+	position:relative;
+	width:100%;
+	background-color:#ffad40;
+	color:#FFF;
+}
+
+.prices-colored+.prices{border-top:8px solid #EEE9DF;}
+
+.prices-colored h3{text-align:center;}
+
+.price p{
+	font-size:0.8em;
+	line-height:1.5em;
+	position:relative;
+}
+.prices .price p, .price p{
+	padding:5px 80px 7px 20px;
+}
+.prices-colored .price p{
+	text-align:left;
+	color:#FFF;
+}
+.prices .price p{text-align:left;}
+.price p span{
+	position:absolute;
+	top:6px;
+	right:20px;
+	font-weight:bold;
+}
+.price p .oldPrice{
+	font-weight:normal;
+	font-size:0.7em;
+	text-decoration:line-through;
+	top:17px;
+}
+.price p span.promo{
+	right:auto;
+	left:0;
+	top:7px;
+	width:16px;
+	height:16px;
+	overflow:hidden;
+	text-indent:-1000px;
+	background:url(../images/promo.png) center center no-repeat;
+}
+
+.subnote{
+	font-size:0.7em;
+	color:#aeadae;
+	text-align:center;
+	padding-top:10px;
+}
+.prices-colored .subnote{color:#FFF;}
+
+/* suscriptions page */
+
+#despre_pgs #abonamente li{list-style:none none; margin-bottom:10px;}
+
+#abonamente .column-title{
+	color:#17c7d2;
+	font-size:1.2em;
+	margin-bottom:3px !important;
+}
+#abonamente .column-title span{font-size:1.5em;}
+#abonamente .small-nfo{font-size:0.8em; margin-bottom:10px; padding-right:15px;}
+
+#abonamente h4.line-title{font-size:1.2em; margin-bottom:5px;}
+.column1 p{font-size:1em;padding-top:3px;}
+
+
+/* home page prices slider */
+.homePrices h4{
+	position:relative;
+	margin-bottom:10px;
+	padding-bottom:10px;
+	border-bottom:1px dotted #17c7d2;
+}
+.homePrices h4:first-child{border:0px none; padding-bottom:0;}
+
+.homePrices h4 a {color: #17c7d1;
+    font: 18px/24px Georgia,"Times New Roman",Times,serif;
+    margin-bottom: 20px;}
+ .homePrices h4 a:hover {color: #ffad40;}
+.homePrices a{
+	display:inline-block;
+	width:inherit;
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	background:none;
+	border:0px none;
+	font-size:0.8em;
+	line-height:1.1em;
+	color:#aeadae;
+	height:auto;
+	padding-right:70px;
+}
+.homePrices a span{
+	position:absolute;
+	top:2px;
+	right:0px;
+	color:#ffad40;
+	font-weight:bold;
+}
+
+.homePrices table {width:100%;}
+.homePrices table td {padding:5px 0; border-bottom: 1px dotted #17c7d2;line-height: normal;color:#aeadae;}
+
+
+
+/* homepage - data area */
+#data-slider, #prices-slider, #testimoniale-slider{
+	position:relative;
+	width:100%;
+	padding-top:30px;
+	background:#fff;
+}
+
+
+/* Data Slider */
+
+#data-slider{
+	height:300px;
+}
+.homeData, .homeData li{height:300px;}
+.homeData li{/*margin-right:10px;*/overflow:hidden;}
+
+
+
+/*.testimoniale, .testimoniale li{height:300px;}*/
+#testimoniale-slider h2 {
+ padding-bottom: 20px;
+    text-align: center;
+    }
+.testimoniale h4 a {color: #17c7d1;text-decoration:none;}
+.testimoniale h4 a:hover {color: #ffad40;text-decoration:none;}
+.testimoniale li{width:285px; margin-right:10px;overflow:hidden;color:#aeadae;}
+
+.testimoniale p {color:#aeadae;}
+
+#data-map{
+	background:url(../images/data-bg1.jpg) top left no-repeat;
+	position:relative;
+}
+#data-map h1{
+	display:block;
+	width:145px;
+	height:100px;
+	padding:80px 50px 15px;
+	overflow:hidden;
+	text-indent:-1000px;
+	background:url(../images/logo-smaller.png) center center no-repeat;
+}
+#data-map p{
+	diplay:block;
+	width:145px;
+	text-align:center;
+	font-size:0.8em;
+	margin-left:50px;
+}
+#data-map a{
+	display:block;
+	width:inherit;
+	height:inherit;
+	overflow:hidden;
+	text-indent:-10000px;
+	position:absolute;
+	top:0px;
+	left:0px;
+	z-index:20;
+}
+
+#data-programari, #data-program{
+	background:url(../images/data-bg2.jpg) top left no-repeat;
+	color:#FFF;
+}
+#data-programari{
+}
+#data-programari h3{
+	padding:40px 0 0 40px;
+}
+#data-programari p{
+	margin:10px 0 0 40px;
+	font-size:0.9em;
+	line-height:0.9em;
+	color:#FFF;
+}
+#data-programari .app-phone{
+	margin:20px 0 0 40px;
+}
+#data-programari .app-phone+.app-phone{
+	margin-top:10px;
+}
+
+
+#data-program h3{padding:40px 0 0 40px;}
+#data-program p{
+	margin:0 40px;
+	color:#FFF;
+	font-family:'ancona-cdbold', sans-serif;
+	font-size:3em;
+	font-weight:bold;
+}
+#data-program span{
+	display:inline-block;
+	margin:10px 40px 0 40px;
+	font-size:0.8em;
+}
+#data-program span.othernfo{margin-top:80px; line-height:1.2em;}
+
+/* Medics slider */
+.bscroll{
+	height:140px;
+	margin-top:20px;
+
+}
+
+.bscroll a{
+	width:120px;
+	height:120px;
+	color:#FFF;
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:0.9em;
+}
+.bscroll p{	color:#FFF;
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:0.9em; }
+.bscroll a img {
+	border-radius:50%;
+	-webkit-transition: all 0.1s ease-in-out;
+	-moz-transition: all 0.1s ease-in-out;
+	-o-transition: all 0.1s ease-in-out;
+	-ms-transition: all 0.1s ease-in-out;
+	transition: all 0.1s ease-in-out;
+}
+.bscroll a:hover img {
+	box-shadow: 0 0 0 4px #f3a34a;
+}
+.bscroll a span{
+	display:block;
+	font-size:0.6em;
+	line-height:1em;
+}
+.bscroll a span.functie{
+	font-weight:bold;
+	font-size:0.8em;
+	line-height:1em;
+	padding-top:6px;
+}
+.bscroll a span.specializare{padding-top:4px;}
+
+/* prices slider */
+
+#prices-slider h2{text-align:center; padding-bottom:20px;}
+
+/* galerie foto */
+#cboxPrevious, #cboxNext{
+	background:url(../images/controls.png) no-repeat;
+	width:8px;
+	height:8px;
+	bottom:3px;
+	border:0px none;
+	overflow:hidden;
+	text-indent:-1000px;
+	padding:0;
+}
+#cboxPrevious{background-position:0px 0px;}
+#cboxPrevious:hover{background-position:0px -8px;}
+#cboxNext{left:12px;background-position:-8px 0px;}
+#cboxNext:hover{background-position:-8px -8px;}
+#cboxClose{background:none; border:0px none; bottom:0px;}
+#cboxClose:hover{color:#17c7d2;}
+#cboxCurrent{font-size:0.8em;left:25px; bottom:-6px;}
+
+/* footer */
+
+#footer h2{
+	display:block;
+	width:145px;
+	height:100px;
+	margin:0 auto 15px;
+	overflow:hidden;
+	text-indent:-1000px;
+	background:url(../images/logo-smaller.png) center center no-repeat;
+}
+#footer p.phone{display:block; width:38%; margin:0 auto;}
+
+/* promo page */
+.promopg h4{
+	font-family:'ancona-cdbold', sans-serif;
+}
+
+
+/* contact page */
+.sidebar h3{margin-bottom:20px}
+
+/* blog */
+.featuredposts{margin-top:30px;}
+.post h3 a{color:#ffad40;}
+.blog-price-list{margin:30px 0 0 30px;}
+.blog-price-list p{width:75%; font-size:0.8em; line-height:1.5em;}
+.blog-price-list h4{
+	color:#17c7d2;
+	font-family:'ancona-cdbold', sans-serif;
+	font-size:2em;
+	text-transform:uppercase;
+	padding:10px 0 30px;
+}
+.blog-price-list h4.oldPrice{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:1em;
+	text-decoration:line-through;
+	padding:10px 0 0;
+	color:#333;
+}
+#despre_pgs .blog-price-list h4{margin-bottom:0;}
+.blog-price-list h4.oldPrice+h4{}
+
+
+
+
+/* listbox page */
+
+.listbox1,.listbox2{
+	padding:30px 0;
+}
+.listbox2{
+	border-top:8px solid #f3a34a;
+	position:relative;
+	width:100%;
+	background-color:#ffad40;
+	color:#FFF;
+}
+.listbox1 p, .listbox2 p{font-size:0.9em;}
+.listbox2 p{color:#FFF;}
+
+.listbox1 a {color:#494949;text-decoration:none;}
+.listbox2 a {color:#fdf4e0;text-decoration:none;}
+
+
+
+/* doctors page */
+
+.doctor,.doctor2{
+	padding:30px 0;
+}
+.doctor2{
+	border-top:8px solid #f3a34a;
+	position:relative;
+	width:100%;
+	background-color:#ffad40;
+	color:#FFF;
+}
+.doctor p, .doctor2 p{font-size:0.9em;}
+.doctor2 p{color:#FFF;}
+
+/* else */
+
+.img75{width:75%;}
+.fotos{height:200px;}
+.fotos a img{border:5px solid #f3a34a;}
+.fotos a:hover img{border:5px solid #fff;}
+
+.fb-like-box{background-color:#FFF; margin-top:15px;}
+
+
+
+/* MEDIA QUERIES RULES FOR SMALL VIEWPORTS
+	----------------------------------------------------------------*/
+@media only screen and (min-width: 720px) and (max-width: 979px) {
+	#name a {
+		background:url(../images/logo-smaller.png) center center no-repeat;
+	}
+	ul#menuglowne li a.item{
+		padding:10px 8px;
+		margin:7px 1px 0;
+		font-size:11px;
+	}
+	ul#menuglowne li ul.sub li a{font-size:11px;}
+	
+	#home-slide-01 .description{top:81px; width:75%;}
+	.priceList{
+		width:350px;
+		right:0px;
+		font-size:0.7em;
+		line-height:0.9em;
+	}
+	.oneColumn{width:160px;}
+	.priceList li{
+		margin-bottom:10px;
+	}
+	.priceList span{
+		line-height:1em;
+	}
+	#data-program p{font-size:2em;}
+	#data-programari h3, #data-programari p, #data-program h3, #data-program p, #data-program span, #data-map p, #data-programari .app-phone{margin-left:25px;}
+	#data-programari .app-phone{padding-left:40px;}
+	#data-map{background-position:center top;}
+	#data-map h1{margin-top:100px; margin-left:25px;}
+
+}
+
+@media only screen and (max-width: 719px) {
+	
+	#breadcrumbs{margin-top:25px;}
+	#mainslider .slide-price-list{display:none;}
+	#footer h2{margin:15px auto;}
+	#errorheader #name a{margin-bottom:20px;}
+	#errorheader h3{margin-bottom:0;}
+	#errorheader .margintop:first-child{margin-bottom:10px;}
+	#errorheader .margintop+.margintop{margin-top:0;}
+	
+	#data-map{background-position:right top;}
+	#data-map h1{margin-top:140px; margin-left:15px;}
+	#data-map p{line-height:16px; margin-left:15px;}
+	#data-programari h3, #data-programari p, #data-program h3, #data-program p, #data-program span, #data-map p, #data-programari .app-phone{margin-left:15px;}
+	#data-programari p{font-size:12px; padding-right:10px; line-height:18px;}
+	#data-program span+p{line-height:34px;}
+	
+	#home-slide-03 .slide-price{width:40%;}
+	#home-slide-03 .slide-price p{font-size:14px; line-height:18px;}
+	#home-slide-03 .caption{margin-top:60px;}
+	.sidebar ul{text-align:right;}
+	.sidebar h3{margin-bottom:10px;}
+	.sidebar ul{padding-bottom:20px;}
+	.sidebar ul li h4{
+		margin:0 0 10px 0;
+		font-size:16px;	
+	}
+	.topsocial{text-align:right;}
+	.topsocial .phone{
+		display:block;
+		clear:both;
+		font-size:14px;
+		margin-bottom:10px;
+	}
+}
